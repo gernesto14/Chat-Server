@@ -1,0 +1,29 @@
+.
+├── Dockerfile
+├── README
+├── app.js
+├── bin
+│   └── www
+├── config
+│   ├── SuperTokens.js
+│   ├── db.js
+│   ├── middleware.js
+│   └── viewEngine.js
+├── docker-compose.yml
+├── middlewares
+│   └── errorHandlers.js
+├── package-lock.json
+├── package.json
+├── project-structure.txt
+├── public
+│   └── stylesheets
+│       └── style.css
+├── routes
+│   ├── indexRoutes.js
+│   └── usersRoutes.js
+├── services
+│   └── userService.js
+└── utils
+    └── tenantDbClient.js
+
+9 directories, 18 files
